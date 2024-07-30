@@ -47,8 +47,7 @@ const recipes = [
   {
     author: "Omar",
     name: "Chicken Alfredo",
-    description: "Creamy pasta dish with chicken and 
-    Alfredo sauce",
+    description: "Creamy pasta dish with chicken and Alfredo sauce",
     image: "https://tse3.mm.bing.net/th?id=OIP.wg4qKVPaGE4zIkIEfmLXTQHaLH&pid=Api&P=0&h=220",
     ingredients: ["Fettuccine", "Chicken Breast", "Heavy Cream", "Parmesan Cheese", "Garlic", "Butter"]
   }
